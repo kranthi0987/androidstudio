@@ -1,2 +1,1 @@
-# CollegeManagement-ManagementApp
-CollegeManagement-ManagementApp
+# androidstudio
