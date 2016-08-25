@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="android wifi" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="connect $Prompt$" />
+      <option name="WORKING_DIRECTORY" value="F:/sdk/platform-tools" />
+    </exec>
+  </tool>
+</toolSet>
